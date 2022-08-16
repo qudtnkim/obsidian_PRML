@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "4. Linear Models for Classification/0. Linear Models for Classification.md",
+            "file": "README.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "4. Linear Models for Classification/0. Linear Models for Classification.md",
+                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "4. Linear Models for Classification/0. Linear Models for Classification.md",
+                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "4. Linear Models for Classification/0. Linear Models for Classification.md"
+                "file": "README.md"
               }
             }
           }
@@ -130,7 +130,11 @@
   },
   "active": "9d57dc7b1ec284f5",
   "lastOpenFiles": [
-    "4. Linear Models for Classification/1. Discriminant Functions.md",
-    "README.md"
+    "1. Introduction/1. Introduction.md",
+    "README.md",
+    "PRML_4_선형분류 모델.md",
+    "2. Probability Distributions/0. Probability Distributions.md",
+    "4. Linear Models for Classification/0. Linear Models for Classification.md",
+    "4. Linear Models for Classification/1. Discriminant Functions.md"
   ]
 }
