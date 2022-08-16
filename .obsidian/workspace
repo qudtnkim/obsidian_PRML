@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "9d57dc7b1ec284f5",
+        "id": "49ce4ba05b670fc4",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "4. Linear Models for Classification/5. Bayesian Logistic Regression.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "4. Linear Models for Classification/5. Bayesian Logistic Regression.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "4. Linear Models for Classification/5. Bayesian Logistic Regression.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,24 +117,36 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "4. Linear Models for Classification/5. Bayesian Logistic Regression.md"
               }
             }
+          },
+          {
+            "id": "9d57dc7b1ec284f5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 706.5
   },
-  "active": "9d57dc7b1ec284f5",
+  "active": "49ce4ba05b670fc4",
   "lastOpenFiles": [
-    "1. Introduction/1. Introduction.md",
     "README.md",
-    "PRML_4_선형분류 모델.md",
-    "2. Probability Distributions/0. Probability Distributions.md",
+    "4. Linear Models for Classification/5. Bayesian Logistic Regression.md",
+    "4. Linear Models for Classification/4. Laplace Approximation.md",
+    "4. Linear Models for Classification/3. Prob. Discriminative Models.md",
+    "4. Linear Models for Classification/2. Prob. Generative Models.md",
     "4. Linear Models for Classification/0. Linear Models for Classification.md",
-    "4. Linear Models for Classification/1. Discriminant Functions.md"
+    "4. Linear Models for Classification/1. Discriminant Functions.md",
+    "3. Linear Models for Regression/6. Limit. of Fixed Basis Functions.md",
+    "3. Linear Models for Regression/5. The Evidence Approximation.md",
+    "3. Linear Models for Regression/4. Bayesian Model Comparison.md"
   ]
 }

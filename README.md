@@ -8,8 +8,11 @@
 - Pattern Recognition and Machine Learning = Christopher M. Bishop
 - http://norman3.github.io/prml/
 
-### 연결문서
+### Obsidian 연결문서
 [[1. Introduction]]
 [[0. Probability Distributions]]
 [[0. Linear Models for Regression]]
+
+
+email: qudtnkim@gmail.com
 
