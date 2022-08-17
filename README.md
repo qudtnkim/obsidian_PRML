@@ -7,6 +7,7 @@
 ### 출처(참고문헌)
 - Pattern Recognition and Machine Learning = Christopher M. Bishop
 - http://norman3.github.io/prml/
+- obsidian 공식 수식 TeX Mathjax
 
 ### Obsidian 연결문서
 [[1. Introduction]]
