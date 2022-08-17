@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "5ef91fdb59f73c2b",
+        "id": "9d57dc7b1ec284f5",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "README.md",
+            "file": "04. Linear Models for Classification/0. Linear Models for Classification.md",
             "mode": "source",
             "source": false
           }
@@ -40,7 +40,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#onehot_vector",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 318.5
   },
   "right": {
     "id": "fffbe79fa1cf44ca",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
+                "file": "04. Linear Models for Classification/0. Linear Models for Classification.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
+                "file": "04. Linear Models for Classification/0. Linear Models for Classification.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -112,20 +112,12 @@
             }
           },
           {
-            "id": "9d57dc7b1ec284f5",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "c2a2e7bae7adc1c6",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "README.md"
+                "file": "04. Linear Models for Classification/0. Linear Models for Classification.md"
               }
             }
           }
@@ -134,19 +126,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 523.5
+    "width": 523.5,
+    "collapsed": true
   },
-  "active": "5ef91fdb59f73c2b",
+  "active": "9d57dc7b1ec284f5",
   "lastOpenFiles": [
-    "04. Linear Models for Classification/0. Linear Models for Classification.md",
-    "04. Linear Models for Classification/5. Bayesian Logistic Regression.md",
-    "README.md",
-    "04. Linear Models for Classification/4. Laplace Approximation.md",
-    "04. Linear Models for Classification/3. Prob. Discriminative Models.md",
-    "04. Linear Models for Classification/2. Prob. Generative Models.md",
     "04. Linear Models for Classification/1. Discriminant Functions.md",
-    "03. Linear Models for Regression/6. Limit. of Fixed Basis Functions.md",
-    "03. Linear Models for Regression/5. The Evidence Approximation.md",
-    "03. Linear Models for Regression/4. Bayesian Model Comparison.md"
+    "04. Linear Models for Classification/0. Linear Models for Classification.md",
+    "1.Discriminant Functions.md",
+    "CFG/TEMPLATE.md",
+    "01. Introduction/1. Introduction.md",
+    "01. Introduction/1.1. Example.md",
+    "README.md",
+    "04. Linear Models for Classification/5. Bayesian Logistic Regression.md",
+    "04. Linear Models for Classification/4. Laplace Approximation.md",
+    "04. Linear Models for Classification/3. Prob. Discriminative Models.md"
   ]
 }
