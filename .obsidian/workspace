@@ -4,7 +4,7 @@
     "type": "split",
     "children": [
       {
-        "id": "9d57dc7b1ec284f5",
+        "id": "1f4e8b0526fe4113",
         "type": "leaf",
         "state": {
           "type": "markdown",
@@ -120,26 +120,33 @@
                 "file": "04. Linear Models for Classification/0. Linear Models for Classification.md"
               }
             }
+          },
+          {
+            "id": "9d57dc7b1ec284f5",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
-    "width": 523.5,
-    "collapsed": true
+    "width": 616.5
   },
-  "active": "9d57dc7b1ec284f5",
+  "active": "1f4e8b0526fe4113",
   "lastOpenFiles": [
-    "04. Linear Models for Classification/1. Discriminant Functions.md",
+    "01. Introduction/1.5. The Decision Theory.md",
     "04. Linear Models for Classification/0. Linear Models for Classification.md",
+    "04. Linear Models for Classification/1. Discriminant Functions.md",
     "1.Discriminant Functions.md",
     "CFG/TEMPLATE.md",
     "01. Introduction/1. Introduction.md",
     "01. Introduction/1.1. Example.md",
     "README.md",
     "04. Linear Models for Classification/5. Bayesian Logistic Regression.md",
-    "04. Linear Models for Classification/4. Laplace Approximation.md",
-    "04. Linear Models for Classification/3. Prob. Discriminative Models.md"
+    "04. Linear Models for Classification/4. Laplace Approximation.md"
   ]
 }
