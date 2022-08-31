@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "04. Linear Models for Classification/최대가능도.md",
+            "file": "04. Linear Models for Classification/반복 재가중 최소 제곱법.md",
             "mode": "source",
             "source": false
           }
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04. Linear Models for Classification/최대가능도.md",
+                "file": "04. Linear Models for Classification/반복 재가중 최소 제곱법.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04. Linear Models for Classification/최대가능도.md",
+                "file": "04. Linear Models for Classification/반복 재가중 최소 제곱법.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Linear Models for Classification/최대가능도.md"
+                "file": "04. Linear Models for Classification/반복 재가중 최소 제곱법.md"
               }
             }
           }
@@ -147,26 +147,26 @@
           }
         ],
         "direction": "vertical",
-        "x": 401,
-        "y": 76,
+        "x": 263,
+        "y": 779,
         "width": 1492,
         "height": 973,
-        "maximize": true,
+        "maximize": false,
         "zoom": 0
       }
     ]
   },
   "active": "300bce765956fdd8",
   "lastOpenFiles": [
-    "04. Linear Models for Classification/정준 연결 함수.md",
-    "04. Linear Models for Classification/제 3 확률적 판별 모델.md",
-    "01. Introduction/1. Introduction.md",
+    "04. Linear Models for Classification/베이지안 정리.md",
+    "04. Linear Models for Classification/반복 재가중 최소 제곱법.md",
+    "04. Linear Models for Classification/베이지안 로지스틱 회귀.md",
+    "04. Linear Models for Classification/4.3 확률적 판별 모델.md",
     "04. Linear Models for Classification/최대가능도.md",
-    "04. Linear Models for Classification/프로빗함수.md",
-    "04. Linear Models for Classification/지수족.md",
-    "04. Linear Models for Classification/사후 확률.md",
-    "04. Linear Models for Classification/기저 함수.md",
-    "04. Linear Models for Classification/순차적 경사 하강법.md",
-    "04. Linear Models for Classification/헤시안 행렬.md"
+    "04. Linear Models for Classification/소프트 맥스.md",
+    "CFG/Pasted image 20220831144257.png",
+    "04. Linear Models for Classification/3. Prob. Discriminative Models.md",
+    "04. Linear Models for Classification/주변화.md",
+    "{{.md"
   ]
 }
