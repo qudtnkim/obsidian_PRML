@@ -4,12 +4,12 @@
     "type": "split",
     "children": [
       {
-        "id": "300bce765956fdd8",
+        "id": "645b902ce3c17394",
         "type": "leaf",
         "state": {
           "type": "markdown",
           "state": {
-            "file": "04. Linear Models for Classification/반복 재가중 최소 제곱법.md",
+            "file": "02. Probability Distributions/1. Binary Variables.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 318.5
+    "width": 237.5
   },
   "right": {
     "id": "fffbe79fa1cf44ca",
@@ -77,7 +77,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04. Linear Models for Classification/반복 재가중 최소 제곱법.md",
+                "file": "02. Probability Distributions/1. Binary Variables.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04. Linear Models for Classification/반복 재가중 최소 제곱법.md",
+                "file": "02. Probability Distributions/1. Binary Variables.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "04. Linear Models for Classification/반복 재가중 최소 제곱법.md"
+                "file": "02. Probability Distributions/1. Binary Variables.md"
               }
             }
           }
@@ -147,26 +147,26 @@
           }
         ],
         "direction": "vertical",
-        "x": 263,
-        "y": 779,
-        "width": 1492,
-        "height": 973,
-        "maximize": false,
+        "x": 2412,
+        "y": -279,
+        "width": 1868,
+        "height": 1220,
+        "maximize": true,
         "zoom": 0
       }
     ]
   },
-  "active": "300bce765956fdd8",
+  "active": "645b902ce3c17394",
   "lastOpenFiles": [
-    "04. Linear Models for Classification/베이지안 정리.md",
+    "02. Probability Distributions/0. Probability Distributions.md",
+    "01. Introduction/1.2. Probability Theory.md",
+    "01. Introduction/1.3. Model Selection.md",
+    "04. Linear Models for Classification/주변화.md",
+    "2022_2학기_통계수업_R/Orientation.md",
     "04. Linear Models for Classification/반복 재가중 최소 제곱법.md",
     "04. Linear Models for Classification/베이지안 로지스틱 회귀.md",
-    "04. Linear Models for Classification/4.3 확률적 판별 모델.md",
-    "04. Linear Models for Classification/최대가능도.md",
-    "04. Linear Models for Classification/소프트 맥스.md",
-    "CFG/Pasted image 20220831144257.png",
-    "04. Linear Models for Classification/3. Prob. Discriminative Models.md",
-    "04. Linear Models for Classification/주변화.md",
-    "{{.md"
+    "01. Introduction/1.1. Example.md",
+    "01. Introduction/1. Introduction.md",
+    "04. Linear Models for Classification/4.3 확률적 판별 모델.md"
   ]
 }
