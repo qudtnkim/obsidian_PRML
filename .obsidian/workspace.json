@@ -1,0 +1,176 @@
+{
+  "main": {
+    "id": "ee16041fed7c3d39",
+    "type": "split",
+    "children": [
+      {
+        "id": "1c96a95608679e70",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "173206c4cc64e7f7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "04. Linear Models for Classification/5. Bayesian Logistic Regression.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1cfb1f046438fc2a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06. Kernel/커널.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "eb2287e34e7dab47",
+    "type": "split",
+    "children": [
+      {
+        "id": "1e0eb11cc403f2a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "943e690726123362",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1d8fde30de9266b0",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "tag:#onehot_vector",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3db9a7d33c0c0b4e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 237.5
+  },
+  "right": {
+    "id": "fffbe79fa1cf44ca",
+    "type": "split",
+    "children": [
+      {
+        "id": "7ce42b55357042a7",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "34d79845632c0fc6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "06. Kernel/커널.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b52133efb78d797c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "06. Kernel/커널.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "687a7465529bc0ea",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "c2a2e7bae7adc1c6",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "06. Kernel/커널.md"
+              }
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "horizontal",
+    "width": 616.5,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:퀵 스위처 열기": false,
+      "graph:그래프 뷰 열기": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:오늘의 데일리 노트 열기": false,
+      "templates:템플릿 삽입": false,
+      "command-palette:명령어 팔레트 열기": false
+    }
+  },
+  "active": "1cfb1f046438fc2a",
+  "lastOpenFiles": [
+    "04. Linear Models for Classification/5. Bayesian Logistic Regression.md",
+    "04. Linear Models for Classification/4.3 확률적 판별 모델.md",
+    "CFG/Pasted image 20221020233626.png",
+    "04. Linear Models for Classification/정준 연결 함수.md",
+    "04. Linear Models for Classification/4. Laplace Approximation.md",
+    "04. Linear Models for Classification/라플라스 근사.md",
+    "04. Linear Models for Classification/0. Linear Models for Classification.md",
+    "04. Linear Models for Classification/최대가능도.md",
+    "04. Linear Models for Classification/1. Discriminant Functions.md",
+    "02. Probability Distributions/4. The Exponential Family.md"
+  ]
+}
